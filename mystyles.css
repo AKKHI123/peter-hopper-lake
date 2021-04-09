@@ -1,0 +1,15 @@
+
+#maindiv { 
+
+	margin:auto;
+	background-color:lightblue;
+	color:green;
+	border-radius:20px;
+	border:2px solid orange;
+	font-family:Verdana;
+	font-size:26px;
+	text-align:center;
+	padding:20px;
+	width:50%;
+	
+}
